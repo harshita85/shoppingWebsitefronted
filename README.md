@@ -1,2 +1,2 @@
 # shoppingWebsitefronted
-shopping website og basic
+shopping website of basic
